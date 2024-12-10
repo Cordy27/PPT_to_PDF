@@ -1,7 +1,7 @@
 # PPT_to_PDF
 即开即用的批量PPT转PDF脚本
 
-以下是适用于你的 PPT 转 PDF 转换脚本的 README 文件模板：
+
 
 ---
 
